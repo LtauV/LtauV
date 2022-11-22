@@ -4,7 +4,7 @@ Hi 👋 My name is Valentin Lafitau
 Web Developper
 --------------
 
-After a curriculum in programmation in University, i joined the ETNA's bachelor to put in practice my learnings. Interested in different technologies, from web dev to game dev, i'm eager to keep learning and making the best version of my developper self
+After a curriculum in programmation in University, i joined the ETNA's bachelor to put in practice my learnings. Interested in different technologies, from web dev to game dev to security, i'm eager to keep learning and making the best version of my developper self
 
 *   🌍  I'm based in Paris, France
 *   ✉️  You can contact me at [valentin.lafitau@gmail.com](mailto:valentin.lafitau@gmail.com)
