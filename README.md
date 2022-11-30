@@ -8,8 +8,7 @@ After a curriculum in programmation in University, i joined the ETNA's bachelor 
 
 *   🌍  I'm based in Paris, France
 *   ✉️  You can contact me at [valentin.lafitau@gmail.com](mailto:valentin.lafitau@gmail.com)
-*   🧠  I'm learning C#
-*   ⚡  Hobbies : Music composer/sound designer, Gaming
+*   ⚡  Hobbies : Music composer/sound designer, Gaming, Pixel art
 
 ### Skills
 <p align="left">
